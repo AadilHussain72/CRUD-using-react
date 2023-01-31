@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "name": "Mir Khaliq",
+      "email": "khan@gmail.com",
+      "phone": "+916006673511",
+      "active": false,
+      "id": 2
+    },
+    {
+      "name": "vishal",
+      "email": "vishal@yahoo.com",
+      "phone": "9963258741",
+      "active": false,
+      "id": 3
+    },
+    {
+      "name": "Aadil Hussain Mir",
+      "email": "aadilhussainmir786@gmail.com",
+      "phone": "+916006673511",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
